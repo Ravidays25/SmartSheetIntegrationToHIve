@@ -1,4 +1,4 @@
-package com.smartsheet.imp;
+package com.smartsheet.impl;
 
 import java.io.IOException;
 import java.util.Properties;

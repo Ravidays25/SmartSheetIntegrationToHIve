@@ -1,4 +1,4 @@
-package com.smartsheet.imp;
+package com.smartsheet.impl;
 
 import com.smartsheet.api.Smartsheet;
 import com.smartsheet.api.SmartsheetBuilder;
