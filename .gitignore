@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+workspace.xml
+target/*
+
+hs_err_pid*
+lib/
+target/
+.idea/
+*.iml
+.project
+.settings/
+bin/
+.classpath
+*.log
